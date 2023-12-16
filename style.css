@@ -84,7 +84,7 @@ nav .menu {
   padding: 0 20px;
   text-align: center;
 }
-.center .title {
+.center h1.title {
   color: #fff;
   font-size: 55px;
   font-weight: 600;
@@ -124,3 +124,7 @@ nav .menu {
   color: black;
 }
 footer{background-color:#4d7332}
+li {
+  display:block;
+  color:#fff;
+}
