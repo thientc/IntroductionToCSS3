@@ -9,6 +9,13 @@
   color: #000;
   background: #fff;
 }
+header{
+  font-family: sans-serif;
+}
+
+header nav .menu .logo a{
+  color: red;
+}
 nav {
   position: fixed;
   background: #1b1b1b;
